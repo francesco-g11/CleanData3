@@ -104,3 +104,7 @@ then you can get the averages into another dataframe using the second function
 ```javascript
 myAvgHARdf <- calcAvgHARdataset(myHARdf)
 ```
+
+### *Other info*
+
+A full description about how was obtained is available [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
